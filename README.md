@@ -3,7 +3,7 @@ A collection of postal codes from different countries collected from open data p
 
 ## **Why?**  
 **PostalLux** uses street addresses and a lot of other data for the API. We collect some of this data from open/free to use data sources.
-This sources are not always easy to find so we collected and bundled them so it's a bit easier to find.
+This sources are not always easy to find so we collected and bundled them. We hope that it will a bit easier to find and use the data this way.
 
 ## **Contributing**  
  - Open an issue and give information about where to find more address data. Be sure to include a link to the data and a description of the coverage area for the data.
